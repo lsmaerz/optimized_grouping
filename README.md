@@ -1,5 +1,5 @@
 # Optimized Grouping in Educational Activities
-This repository contains the Gurobi-based Java code of the 'Seminar Paper: Optimized Grouping in Educational Activities' by Lars Steffen März and Thomas Herde from February 26, 2023 at TU Darmstadt published via TUprints under the
+This repository contains the Gurobi-based Java code of the 'Seminar Paper: Optimized Grouping in Educational Activities' (https://doi.org/10.26083/tuprints-00024768) by Lars Steffen März and Thomas Herde from February 26, 2023 at TU Darmstadt published via TUprints under the
 
 LICENSE:
 CC BY 4.0 International - Creative Commons, Attribution, cf. https://creativecommons.org/licenses/by/4.0
